@@ -1,0 +1,12 @@
+com.example.todo.app-jetified-window-java-1.0.0-beta04-0 /Users/akromsmacbbok/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.todo.app-core-1.6.0-1 /Users/akromsmacbbok/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.todo.app-jetified-annotation-experimental-1.1.0-2 /Users/akromsmacbbok/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.todo.app-jetified-window-1.0.0-beta04-3 /Users/akromsmacbbok/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.todo.app-debug-4 /Users/akromsmacbbok/Desktop/ToDo/todo/android/app/src/debug/res
+com.example.todo.app-main-5 /Users/akromsmacbbok/Desktop/ToDo/todo/android/app/src/main/res
+com.example.todo.app-pngs-6 /Users/akromsmacbbok/Desktop/ToDo/todo/build/app/generated/res/pngs/debug
+com.example.todo.app-resValues-7 /Users/akromsmacbbok/Desktop/ToDo/todo/build/app/generated/res/resValues/debug
+com.example.todo.app-rs-8 /Users/akromsmacbbok/Desktop/ToDo/todo/build/app/generated/res/rs/debug
+com.example.todo.app-mergeDebugResources-9 /Users/akromsmacbbok/Desktop/ToDo/todo/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.todo.app-mergeDebugResources-10 /Users/akromsmacbbok/Desktop/ToDo/todo/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.todo.app-merged_res-11 /Users/akromsmacbbok/Desktop/ToDo/todo/build/app/intermediates/merged_res/debug
